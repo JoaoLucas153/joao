@@ -1,0 +1,27 @@
+header{
+    background-color:rgb(102, 102, 102);
+    color: white;
+    text-align:center;
+    max-width: 800px;
+    margin: 0  auto;
+    padding: 16px;
+    border: 3px solid #97979777;
+}
+main {
+    background-color: white;
+    color:rgb(102, 102, 102);
+    max-width: 800px;
+    margin: 0  auto;
+    padding: 16px;
+    flex-direction: column;
+}
+article{
+
+}
+    img{
+    width: 790px;
+    height: 430px;
+}
+.Artigo-Autor{
+    font-weight: 800;
+}
